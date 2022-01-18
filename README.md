@@ -1,3 +1,3 @@
 # subrepo
 
-commit 1 subrepo
+commit 2 subrepo
